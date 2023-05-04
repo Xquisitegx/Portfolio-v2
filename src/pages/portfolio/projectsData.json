@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Dictionary BST",
+    "image": "./projectImages/dictionary-bst.jpg",
+    "description": "Creating a Dictionary to add, edit, view and delete new words to the dictionary in alphabetical order using the BST(Binary Search Tree) method.",
+    "technologies": "Java | Source Code ",
+    "github": "https://github.com/Xquisitegx/Binary-Search-Tree-BST-",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "DoForYou Web App",
+    "image": "./projectImages/DoForYou.jpg",
+    "description": "I was responsible for creating the back-end, database and a bit of the front end. Fully completed Web Application created by me and 3 other team members. This was a Capstone Project in College.",
+    "technologies": "NodeJS | ReactJS | MongoDB | Source Code ",
+    "github": "https://github.com/Xquisitegx/DoForYou",
+    "bgcolor": "#f14244",
+    "id": "2"
+  },
+  {
+    "title": "RecipeShare .NET Application",
+    "image": "./projectImages/RecipeShare.jpg",
+    "description": "I was responsible for creating the back-end, database and JWT security. Fully completed Web Application created by me and 3 other team members. This was a .NET Project done in College.",
+    "technologies": ".NET | Java | MySQL | Source Code ",
+    "github": "https://github.com/Xquisitegx/RecipeShare",
+    "bgcolor": "#a12424",
+    "id": "3"
+  }
+]
